@@ -1,5 +1,7 @@
-# fast-api-clean-architecture
+# fastapi-clean-architecture
 A clean-architecture like rest api in python with FastAPI and Mongo
+
+Warning: This is part of my python studies so keep in mind that better ways of implementing stuff you'll find here, might be possible.
 
 
 ## How to setup
